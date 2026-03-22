@@ -5,7 +5,6 @@
 ### AI Engineer | Full Stack | RAG · LangChain · FastAPI · Next.js | Open to Work
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sulaxmi--raskar-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/sulaxmi-raskar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-sulaxmi--portfolio.web.app-4285F4?style=flat&logo=google-chrome)](https://sulaxmi-portfolio.web.app)
 [![Email](https://img.shields.io/badge/Email-sulaxmiraskar496%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:sulaxmiraskar496@gmail.com)
 
 </div>
@@ -24,10 +23,9 @@ I specialize in **RAG pipelines**, **agentic workflows**, and **LLM integration*
 
 | Project | Description | Stack |
 |---|---|---|
-| 🤖 [RAG Resume Analyzer](https://github.com/sulaxmi22/RAG-Chatbot-LLM) | AI assistant that parses resumes and answers questions via RAG | LangChain · OpenAI · ChromaDB · FastAPI |
 | 📚 [Smart Documentation Agent](https://github.com/sulaxmi22/smart-documentation-rag-agent) | Production-ready Q&A agent over custom documentation | NVIDIA LLMs · LlamaIndex · ChromaDB · FastAPI |
+| 🤖 [RAG Resume Analyzer](https://github.com/sulaxmi22/RAG-Chatbot-LLM) | AI assistant that parses resumes and answers questions via RAG | LangChain · OpenAI · ChromaDB · FastAPI |
 | 🌐 [Agentic Web Scraper](https://github.com/sulaxmi22/Agentic-Webscrapper) | Autonomous agent that scrapes, summarizes, and structures web data | LangGraph · OpenAI · Python |
-| 🧠 [AgenticAI Projects](https://github.com/sulaxmi22/AgenticAI-Projects) | Multi-agent systems: browser agent, trip planner, smart docs | LangChain · LangGraph · OpenAI |
 
 ---
 
